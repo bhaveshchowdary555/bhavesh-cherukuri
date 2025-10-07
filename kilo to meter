@@ -1,0 +1,3 @@
+kilometer = int(input("enter kms :"))
+meters = kilometer*1000
+print(meters)
