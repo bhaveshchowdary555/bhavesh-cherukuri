@@ -1,0 +1,8 @@
+Name = "bhavesh,"
+door_number = "1-162,"
+area = "munusubgari street,"
+town = "lakkavaram,"
+district = "eluru,"
+state = "Andhra Pradesh."
+pincode = 522616
+print(f"\n{Name}\n{door_number}\n{area}\n{town}\n{district}\n{state}\n{pincode}")
