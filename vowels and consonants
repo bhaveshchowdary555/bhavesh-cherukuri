@@ -1,0 +1,6 @@
+text = input("Enter a string: ").lower()
+vowels = "aeiou"
+v = sum(1 for c in text if c in vowels)
+c = sum(1 for c in text if c.isalpha() and c not in vowels)
+print("Vowels:", v)
+print("Consonants:", c)
